@@ -1,4 +1,4 @@
-# JSmith185
+d# JSmith185
 
 ## About Me
 
@@ -57,7 +57,7 @@ Unity-based hospital simulation game modeling real-time patient flow through dep
 Focused on creating a streamlined, educational gameplay experience inspired by real-world triage systems.
 Interactive UI, character AI, resource tracking and allocation
 
-**Genre snd Decade Classification System**
+**Genre and Decade Classification System**
 Developed and evaluated four CNN models (genre-only, decade-only, multi-output, and feature-feed) to classify music tracks by genre and decade using the FMA-Small dataset. Achieved up to 85% genre accuracy and 70% decade accuracy, with analysis showing limited benefit from combining genre and decade predictions. Conducted case studies with real tracks to assess model generalization, highlighting challenges in temporal classification.
 
 **Reddit Sentiment Analysis**
