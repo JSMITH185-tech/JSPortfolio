@@ -52,6 +52,7 @@ An early-career developer with an interest in game development and AI research. 
 ## Projects
 
 **Hospital Simulation**
+![Bike Study](/assets/HospitalSimulation.png)
 Unity-based hospital simulation game modeling real-time patient flow through departments
 Focused on creating a streamlined, educational gameplay experience inspired by real-world triage systems.
 Interactive UI, character AI, resource tracking and allocation
@@ -74,4 +75,5 @@ Using Kinect for Windows in order to navigate a RaspberryPi robot through a maze
 Contributed to the design of the university's RPI programming module, focusing on software testing, PowerShell, Selenium, and documentation for back and front-end  development via PHP, Wordpress, Javascript, HTML.
 
 **Move, Shoot & Avoid 2D Game**
+![Bike Study](/assets/MoveShootAvoid.png)
 Created using HTML 5, Javascript, uses random enemy generation, sound effects and collision detection
