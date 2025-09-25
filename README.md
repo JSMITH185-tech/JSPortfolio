@@ -49,7 +49,7 @@ An early-career developer with an interest in game development and AI research. 
 -Jira, Slack and GitHub used as methods of communication whilst developing
 
 
-##Projects
+## Projects
 
 **Hospital Simulation**
 Unity-based hospital simulation game modeling real-time patient flow through departments
