@@ -1,6 +1,6 @@
 # JSmith185
 
-###About Me
+###About Me###
 
 MSc. Artificial Intelligence student
 
@@ -64,7 +64,11 @@ Overall sentiment of Reddit posts comments using Python libraries, SQL and React
 
 **QMLAC Chatbot**
 Designed the official chatbot for the university's Legal Advice Centre, integrating NLP, Node.js, and Python backend.
-Final Year Project – Using Kinect for Windows in order to navigate a RaspberryPi robot through a maze via gesture recognition. Developed using C#, ASP.NET for Naïve Bayes and Random Forest classification of gesture instance and Java for remote TCP/IP control of the robot. 
+
+**Final Year Project**
+Using Kinect for Windows in order to navigate a RaspberryPi robot through a maze via gesture recognition. Developed using C#, ASP.NET for Naïve Bayes and Random Forest classification of gesture instance and Java for remote TCP/IP control of the robot. 
+
+
 
 **Brunel University Swiftbot**
 Contributed to the design of the university's RPI programming module, focusing on software testing, PowerShell, Selenium, and documentation for back and front-end  development via PHP, Wordpress, Javascript, HTML.
