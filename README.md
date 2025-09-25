@@ -1,4 +1,4 @@
-d# JSmith185
+# JSmith185
 
 ## About Me
 
