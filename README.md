@@ -1,6 +1,6 @@
 # JSmith185
 
-##About Me
+## About Me
 
 MSc. Artificial Intelligence student
 
