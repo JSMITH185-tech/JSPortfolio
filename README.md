@@ -1,13 +1,13 @@
 # JSmith185
 
-###About Me###
+##About Me
 
 MSc. Artificial Intelligence student
 
 An early-career developer with an interest in game development and AI research. I am currently strengthening my skillset in Unity and C# through personal projects, academic work, and hands-on experience. I am interested in gameplay systems, technical design and the role of code in creating smooth user experiences and satisfying game feel. I also enjoy exploring 3D art and creative tools alongside development.
 
 
-### Skills
+## Skills
 -Microsoft Certified: AI-900 (Azure AI Fundamentals)
 - Skills City Unity Developer Bootcamp Outstanding Graduate
 -Java
@@ -17,14 +17,14 @@ An early-career developer with an interest in game development and AI research. 
 -Selenium
 -Blender
 
-###Education
+##Education
 
 **MSc Artificial Intelligence (Creative Stream) || Queen Mary University, London – September 2024 - Present**
 - Modules: Machine Learning, Applied Statistics, Deep Learning for Audio and Music, Ethics and Law in Advanced Digital Information Processing, AI in Games
 
 **BSc (Hons) Computer Science (Artificial Intelligence) with Professional Practice || Brunel University, London (July 2023)**
 
-### Work 
+## Work 
 
 **AImploy – Machine Learning Engineer – July 2023 –**
 -AWS Services (transcribe), Python, LangChain 85% accuracy in emotional state detection
@@ -49,7 +49,7 @@ An early-career developer with an interest in game development and AI research. 
 -Jira, Slack and GitHub used as methods of communication whilst developing
 
 
-###Projects
+##Projects
 
 **Hospital Simulation**
 Unity-based hospital simulation game modeling real-time patient flow through departments
