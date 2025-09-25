@@ -22,7 +22,7 @@ An early-career developer with an interest in game development and AI research. 
 **MSc Artificial Intelligence (Creative Stream) || Queen Mary University, London – September 2024 - Present**
 - Modules: Machine Learning, Applied Statistics, Deep Learning for Audio and Music, Ethics and Law in Advanced Digital Information Processing, AI in Games
 
-**BSc (Hons) Computer Science (Artificial Intelligence) with Professional Practice || Brunel University, London (July 2023)**
+**BSc (Hons) Computer Science (Artificial Intelligence) with Professional Practice || Brunel University, London -July 2023**
 
 ## Work 
 
